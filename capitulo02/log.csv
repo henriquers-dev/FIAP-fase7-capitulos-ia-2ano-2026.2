@@ -1,0 +1,16 @@
+case_id,activity,timestamp,resource
+C003,Receber pedido,2024-03-01 09:15:00,Ana
+C001,Receber pedido,2024-03-01 08:00:00,Ana
+C002,Receber pedido,2024-03-01 08:30:00,Bruno
+C001,Validar pagamento,2024-03-01 08:20:00,Carlos
+C003,Validar pagamento,2024-03-01 09:40:00,Carlos
+C002,Validar pagamento,2024-03-01 09:00:00,Carlos
+C001,Separar itens,2024-03-01 09:10:00,Diego
+C002,Separar itens,2024-03-01 10:05:00,Diego
+C003,Separar itens,2024-03-01 10:30:00,Elisa
+C001,Enviar pedido,2024-03-01 10:00:00,Elisa
+C002,Enviar pedido,2024-03-01 11:15:00,Elisa
+C003,Enviar pedido,2024-03-01 11:45:00,Diego
+C001,Confirmar entrega,2024-03-02 14:00:00,Transportadora
+C003,Confirmar entrega,2024-03-02 16:30:00,Transportadora
+C002,Confirmar entrega,2024-03-02 15:10:00,Transportadora
