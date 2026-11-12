@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "CardioIA",
+    "slug": "cardioia",
+    "android": {
+      "package": "br.com.cardioia.app"
+    }
+  }
+}
